@@ -9,7 +9,7 @@
 ---
 
 ## 📫 Let's connect
-- [Telegram – @YourTelegramUsername](https://t.me/abdurafikovna006)
+- [Telegram – @abdurafikovna006](https://t.me/abdurafikovna006)
 
 🙋‍♀️ Pronouns: She/Her  
 
