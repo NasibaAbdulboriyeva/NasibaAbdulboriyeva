@@ -1,6 +1,6 @@
 # 👩‍💻 Nasiba Abdulboriyeva
 
-🎯 **Backend Developer | C# | .NET | Clean Architecture Enthusiast**
+🎯 **Backend Developer | C# | .NET |**
 
 I'm a backend developer focused on writing clean, testable, and scalable code using **C#** and **.NET**.  
 I enjoy solving real-world problems, contributing to team projects, and continuously learning new technologies.
