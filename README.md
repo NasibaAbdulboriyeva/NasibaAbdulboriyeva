@@ -16,6 +16,8 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nasiba006)
+
 
 ## 🌱 Currently Learning
 
