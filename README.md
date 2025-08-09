@@ -35,7 +35,7 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 ---
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nasiba.006?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nasiba006?theme=dark&ext=heatmap)
 
 ---
 
