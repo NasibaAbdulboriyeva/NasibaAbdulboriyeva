@@ -51,10 +51,22 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake  
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NasibaAbdulboriyeva&theme=algolia&no-bg=true&margin-w=5)](https://github.com/NasibaAbdulboriyeva)
+![snake gif](https://github.com/NasibaAbdulboriyeva/NasibaAbdulboriyeva/blob/output/github-contribution-grid-snake.svg)  
 
+---
+
+## 👀 Profile Views  
+
+![Profile views](https://komarev.com/ghpvc/?username=NasibaAbdulboriyeva&label=Profile%20views&color=0e75b6&style=flat)  
+
+---
+
+## 📌 Featured Projects  
+
+- [Hotel Booking System](https://github.com/NasibaAbdulboriyeva/HotelBookingSystem) – Clean Architecture, .NET, EF Core  
+- [HTML Journey](https://github.com/NasibaAbdulboriyeva/html-journey) – HTML & CSS learning repo  
 ---
 
 ### 🙋‍♀️ Pronouns: She / Her
