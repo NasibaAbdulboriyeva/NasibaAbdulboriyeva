@@ -53,7 +53,8 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/NasibaAbdulboriyeva/NasibaAbdulboriyeva/blob/output/snake.svg)
+![Snake animation](https://github.com/NasibaAbdulboriyeva/NasibaAbdulboriyeva/blob/output/snake.svg)
+
 
 ---
 
