@@ -6,7 +6,7 @@ I'm a backend developer focused on writing clean, testable, and scalable code us
 I enjoy solving real-world problems, contributing to team projects, and continuously learning new technologies.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasibaAbdulboriyeva&layout=compact&theme=tokyonight)
+
 
 ## 🚀 Tech Stack & Tools
 
