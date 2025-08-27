@@ -1,6 +1,6 @@
 # 👩‍💻 Nasiba Abdulboriyeva
 
-🎯 **Backend Developer | C# | .NET |**
+🎯 **Backend Developer | C# | .NET**
 
 I'm a backend developer focused on writing clean, testable, and scalable code using **C#** and **.NET**.  
 I enjoy solving real-world problems, contributing to team projects, and continuously learning new technologies.
@@ -17,28 +17,30 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 
 ---
 
-
 ## 🌱 Currently Learning
 
 - Clean Architecture with .NET  
-- Enterprise-level backend design  
-- Advanced Entity Framework Core  
-- Integration testing and API optimization
+- Enterprise-level backend design   
+- Integration testing and API optimization  
+- CQRS (Command Query Responsibility Segregation)  
+- Domain-Driven Design (DDD)  
+- MediatR for .NET  
+- Angular for frontend development
 
 ---
 
 ## 📬 Let's Connect
 
-- 📧 [LinkedIn – Nasiba Abdulboriyeva](https://www.linkedin.com/in/nasiba-abdulboriyeva-17b230379)
-- 💬 [Telegram – @abdurafikovna006](https://t.me/abdurafikovna006)
+- 💼 [LinkedIn – Nasiba Abdulboriyeva](https://www.linkedin.com/in/nasiba-abdulboriyeva-17b230379)  
+- 💬 [Telegram – @abdurafikovna006](https://t.me/abdurafikovna006)  
 
 ---
+
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nasiba006?theme=dark&ext=heatmap)
 
 ---
-
 
 ## 📊 GitHub Stats
 
