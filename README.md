@@ -6,6 +6,7 @@ I'm a backend developer focused on writing clean, testable, and scalable code us
 I enjoy solving real-world problems, contributing to team projects, and continuously learning new technologies.
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasibaAbdulboriyeva&layout=compact&theme=tokyonight)
 
 ## 🚀 Tech Stack & Tools
 
@@ -32,7 +33,8 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn – Nasiba Abdulboriyeva](https://www.linkedin.com/in/nasiba-abdulboriyeva-17b230379)  
-- 💬 [Telegram – @abdurafikovna006](https://t.me/abdurafikovna006)  
+- 💬 [Telegram – @abdurafikovna006](https://t.me/abdurafikovna006) 
+- Email: fzokhidova@gmail.com 
 
 ---
 
