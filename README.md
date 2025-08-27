@@ -65,8 +65,8 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 
 ## 📌 Featured Projects  
 
-- [Hotel Booking System](https://github.com/NasibaAbdulboriyeva/HotelBookingSystem) – Clean Architecture, .NET, EF Core  
-- [HTML Journey](https://github.com/NasibaAbdulboriyeva/html-journey) – HTML & CSS learning repo  
+- [Hotel Booking System](https://github.com/NasibaAbdulboriyeva/HotelBookingSystemWithTeam) – Clean Architecture, .NET, EF Core  
+- [HTML Journey](https://github.com/NasibaAbdulboriyeva/Learn-HTML-Journey) – HTML & CSS learning repo  
 ---
 
 ### 🙋‍♀️ Pronouns: She / Her
