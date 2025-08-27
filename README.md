@@ -45,7 +45,6 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NasibaAbdulboriyeva&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasibaAbdulboriyeva&layout=compact&theme=tokyonight" height="170" />
-  
 </div>
 
 ---
