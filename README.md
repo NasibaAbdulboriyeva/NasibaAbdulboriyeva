@@ -51,9 +51,9 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/NasibaAbdulboriyeva/NasibaAbdulboriyeva/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/NasibaAbdulboriyeva/NasibaAbdulboriyeva/blob/output/snake.svg)
 
 ---
 
