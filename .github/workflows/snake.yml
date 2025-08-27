@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # Har kuni yarim tunda yangilab beradi
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Qo'lda ham ishga tushirsa bo'ladi
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: NasibaAbdulboriyeva   # GitHub username'ingni yoz
+          github_user_name: NasibaAbdulboriyeva
           outputs: dist/snake.svg
 
       - name: Push Snake
