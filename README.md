@@ -50,10 +50,6 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
   <img src="https://github-readme-stats.vercel.app/api?username=NasibaAbdulboriyeva&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasibaAbdulboriyeva&layout=compact&theme=tokyonight" height="170" />
 </div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NasibaAbdulboriyeva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasibaAbdulboriyeva&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NasibaAbdulboriyeva&theme=radical)](https://git.io/streak-stats)
-
 
 ---
 
